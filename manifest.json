@@ -6,7 +6,8 @@
     "author": "Harlem512",
     "version": 6.2,
     "type": "meow",
-    "url": "https://github.com/Harlem512/rm-mod-manager/releases/download/1.4b/rmml.meow"
+    "url": "https://github.com/Harlem512/rm-mod-manager/releases/download/1.4b/rmml.meow",
+    "dependencies":,
   },
   "rmmm.md": {
     "name": "rmmm.md",
@@ -15,7 +16,8 @@
     "author": "Harlem512",
     "version": 1.4,
     "type": "md",
-    "url": "https://github.com/Harlem512/rm-mod-manager/releases/download/1.4b/rmmm.md"
+    "url": "https://github.com/Harlem512/rm-mod-manager/releases/download/1.4b/rmmm.md",
+    "dependencies":,
   },
   "ameli_palette": {
     "name": "ameli_palette",
@@ -24,7 +26,8 @@
     "author": "Harlem512",
     "version": 2.1,
     "type": "zip",
-    "url": "https://github.com/Harlem512/rm-mod-database/releases/download/ameli-palette-2.1/ameli_palette.zip"
+    "url": "https://github.com/Harlem512/rm-mod-database/releases/download/ameli-palette-2.1/ameli_palette.zip",
+    "dependencies":,
   },
   "archipelago": {
     "name": "archipelago",
@@ -33,7 +36,8 @@
     "author": "MrL",
     "version": 1.1,
     "type": "zip",
-    "url": "https://github.com/dgrossmann144/RustedMossArchipelagoClient/releases/download/v1.1.0/RustedMossArchipelagoClient.zip"
+    "url": "https://github.com/dgrossmann144/RustedMossArchipelagoClient/releases/download/v1.1.0/RustedMossArchipelagoClient.zip",
+    "dependencies":["ameli_palette","checklist.md"],
   },
   "bugfix": {
     "name": "bugfix.md",
@@ -42,7 +46,8 @@
     "author": "Harlem512",
     "version": 1.2,
     "type": "md",
-    "url": "https://raw.githubusercontent.com/Harlem512/rm-mod-database/refs/heads/main/mods/bugfix.md"
+    "url": "https://raw.githubusercontent.com/Harlem512/rm-mod-database/refs/heads/main/mods/bugfix.md",
+    "dependencies":,
   },
   "checklist.md": {
     "name": "checklist.md",
@@ -51,7 +56,8 @@
     "author": "Harlem512",
     "version": 1.1,
     "type": "md",
-    "url": "https://raw.githubusercontent.com/Harlem512/rm-mod-database/refs/heads/main/mods/checklist/checklist.md"
+    "url": "https://raw.githubusercontent.com/Harlem512/rm-mod-database/refs/heads/main/mods/checklist/checklist.md",
+    "dependencies":,
   },
   "ghost_mp": {
     "name": "ghost_mp",
@@ -60,7 +66,8 @@
     "author": "Harlem512",
     "version": 1.5,
     "type": "zip",
-    "url": "https://github.com/Harlem512/rm-mod-database/releases/download/ghost-mp-1.5/ghost_mp.zip"
+    "url": "https://github.com/Harlem512/rm-mod-database/releases/download/ghost-mp-1.5/ghost_mp.zip",
+    "dependencies":,
   },
   "gimmick.md": {
     "name": "gimmick.md",
@@ -69,7 +76,8 @@
     "author": "Harlem512",
     "version": 1.2,
     "type": "md",
-    "url": "https://raw.githubusercontent.com/Harlem512/rm-mod-database/refs/heads/main/mods/gimmick/gimmick.md"
+    "url": "https://raw.githubusercontent.com/Harlem512/rm-mod-database/refs/heads/main/mods/gimmick/gimmick.md",
+    "dependencies":,
   },
   "grapple_preview": {
     "name": "grapple_preview",
@@ -78,7 +86,8 @@
     "author": "Harlem512",
     "version": 1,
     "type": "zip",
-    "url": "https://github.com/Harlem512/rm-mod-database/releases/download/grapple-preview-1.0/grapple_preview.zip"
+    "url": "https://github.com/Harlem512/rm-mod-database/releases/download/grapple-preview-1.0/grapple_preview.zip",
+    "dependencies":,
   },
   "maya_palette": {
     "name": "maya_palette",
@@ -87,7 +96,8 @@
     "author": "Harlem512",
     "version": 2,
     "type": "zip",
-    "url": "https://github.com/Harlem512/rm-mod-database/releases/download/pals-2/maya_palette.zip"
+    "url": "https://github.com/Harlem512/rm-mod-database/releases/download/pals-2/maya_palette.zip",
+    "dependencies":,
   },
   "minify.md": {
     "name": "minify.md",
@@ -96,7 +106,8 @@
     "author": "Harlem512",
     "version": 2,
     "type": "md",
-    "url": "https://raw.githubusercontent.com/Harlem512/rm-mod-database/refs/heads/main/mods/minify.md"
+    "url": "https://raw.githubusercontent.com/Harlem512/rm-mod-database/refs/heads/main/mods/minify.md",
+    "dependencies":,
   },
   "minimap.md": {
     "name": "minimap.md",
@@ -105,7 +116,8 @@
     "author": "Harlem512",
     "version": 1.1,
     "type": "md",
-    "url": "https://raw.githubusercontent.com/Harlem512/rm-mod-database/refs/heads/main/mods/minimap.md"
+    "url": "https://raw.githubusercontent.com/Harlem512/rm-mod-database/refs/heads/main/mods/minimap.md",
+    "dependencies":,
   },
   "more_saves.md": {
     "name": "more_saves.md",
@@ -114,7 +126,8 @@
     "author": "Harlem512",
     "version": 1,
     "type": "md",
-    "url": "https://raw.githubusercontent.com/Harlem512/rm-mod-database/refs/heads/main/mods/more_saves/more_saves.md"
+    "url": "https://raw.githubusercontent.com/Harlem512/rm-mod-database/refs/heads/main/mods/more_saves/more_saves.md",
+    "dependencies":,
   },
   "ms_archipelago.md": {
     "name": "ms_archipelago.md",
@@ -123,7 +136,8 @@
     "author": "Harlem512",
     "version": 1,
     "type": "md",
-    "url": "https://raw.githubusercontent.com/Harlem512/rm-mod-database/refs/heads/main/mods/more_saves/ms_archipelago.md"
+    "url": "https://raw.githubusercontent.com/Harlem512/rm-mod-database/refs/heads/main/mods/more_saves/ms_archipelago.md",
+    "dependencies":,
   },
   "palette_editor": {
     "name": "palette_editor",
@@ -132,7 +146,8 @@
     "author": "Snowill",
     "version": 3.0,
     "type": "zip",
-    "url": "https://github.com/Iciclis/RustedMoss-PaletteEditor/releases/download/v0.3/palette_editor.zip"
+    "url": "https://github.com/Iciclis/RustedMoss-PaletteEditor/releases/download/v0.3/palette_editor.zip",
+    "dependencies":,
   },
   "preserve_window": {
     "name": "preserve_window",
@@ -141,7 +156,8 @@
     "author": "Harlem512",
     "version": 1,
     "type": "zip",
-    "url": "https://github.com/Harlem512/rm-mod-database/releases/download/preserve-window-1.0/preserve_window.zip"
+    "url": "https://github.com/Harlem512/rm-mod-database/releases/download/preserve-window-1.0/preserve_window.zip",
+    "dependencies":,
   },
   "puntable.md": {
     "name": "puntable.md",
@@ -150,7 +166,8 @@
     "author": "Harlem512",
     "version": 1.1,
     "type": "md",
-    "url": "https://raw.githubusercontent.com/Harlem512/rm-mod-database/refs/heads/main/mods/puntable.md"
+    "url": "https://raw.githubusercontent.com/Harlem512/rm-mod-database/refs/heads/main/mods/puntable.md",
+    "dependencies":,
   },
   "pursuit.md": {
     "name": "pursuit.md",
@@ -159,7 +176,8 @@
     "author": "Harlem512",
     "version": 1.2,
     "type": "md",
-    "url": "https://raw.githubusercontent.com/Harlem512/rm-mod-database/refs/heads/main/mods/pursuit.md"
+    "url": "https://raw.githubusercontent.com/Harlem512/rm-mod-database/refs/heads/main/mods/pursuit.md",
+    "dependencies":,
   },
   "speedrun_timer.md": {
     "name": "speedrun_timer.md",
@@ -168,7 +186,8 @@
     "author": "Harlem512",
     "version": 1,
     "type": "md",
-    "url": "https://raw.githubusercontent.com/Harlem512/rm-mod-database/refs/heads/main/mods/speedrun_timer.md"
+    "url": "https://raw.githubusercontent.com/Harlem512/rm-mod-database/refs/heads/main/mods/speedrun_timer.md",
+    "dependencies":,
   },
   "zebedee": {
     "name": "zebedee",
@@ -177,6 +196,7 @@
     "author": "Harlem512",
     "version": 0,
     "type": "md",
-    "url": "https://raw.githubusercontent.com/Harlem512/rm-mod-database/refs/heads/main/mods/dev.md"
+    "url": "https://raw.githubusercontent.com/Harlem512/rm-mod-database/refs/heads/main/mods/dev.md",
+    "dependencies":,
   }
 }
