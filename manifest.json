@@ -37,7 +37,7 @@
     "version": 1.1,
     "type": "zip",
     "url": "https://github.com/dgrossmann144/RustedMossArchipelagoClient/releases/download/v1.1.0/RustedMossArchipelagoClient.zip",
-    "dependencies": ["ameli_palette","checklist.md"]
+    "dependencies": []
   },
   "bugfix": {
     "name": "bugfix.md",
@@ -47,7 +47,7 @@
     "version": 1.2,
     "type": "md",
     "url": "https://raw.githubusercontent.com/Harlem512/rm-mod-database/refs/heads/main/mods/bugfix.md",
-    "dependencies": []
+    "dependencies": ["ameli_palette","checklist.md"]
   },
   "checklist.md": {
     "name": "checklist.md",
