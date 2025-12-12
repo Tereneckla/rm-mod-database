@@ -7,7 +7,7 @@
     "version": 6.2,
     "type": "meow",
     "url": "https://github.com/Harlem512/rm-mod-manager/releases/download/1.4b/rmml.meow",
-    "dependencies":
+    "dependencies": []
   },
   "rmmm.md": {
     "name": "rmmm.md",
@@ -17,7 +17,7 @@
     "version": 1.4,
     "type": "md",
     "url": "https://github.com/Harlem512/rm-mod-manager/releases/download/1.4b/rmmm.md",
-    "dependencies":
+    "dependencies": []
   },
   "ameli_palette": {
     "name": "ameli_palette",
@@ -27,7 +27,7 @@
     "version": 2.1,
     "type": "zip",
     "url": "https://github.com/Harlem512/rm-mod-database/releases/download/ameli-palette-2.1/ameli_palette.zip",
-    "dependencies":
+    "dependencies": []
   },
   "archipelago": {
     "name": "archipelago",
@@ -37,7 +37,7 @@
     "version": 1.1,
     "type": "zip",
     "url": "https://github.com/dgrossmann144/RustedMossArchipelagoClient/releases/download/v1.1.0/RustedMossArchipelagoClient.zip",
-    "dependencies":["ameli_palette","checklist.md"]
+    "dependencies": ["ameli_palette","checklist.md"]
   },
   "bugfix": {
     "name": "bugfix.md",
@@ -47,7 +47,7 @@
     "version": 1.2,
     "type": "md",
     "url": "https://raw.githubusercontent.com/Harlem512/rm-mod-database/refs/heads/main/mods/bugfix.md",
-    "dependencies":
+    "dependencies": []
   },
   "checklist.md": {
     "name": "checklist.md",
@@ -57,7 +57,7 @@
     "version": 1.1,
     "type": "md",
     "url": "https://raw.githubusercontent.com/Harlem512/rm-mod-database/refs/heads/main/mods/checklist/checklist.md",
-    "dependencies":
+    "dependencies": []
   },
   "ghost_mp": {
     "name": "ghost_mp",
@@ -67,7 +67,7 @@
     "version": 1.5,
     "type": "zip",
     "url": "https://github.com/Harlem512/rm-mod-database/releases/download/ghost-mp-1.5/ghost_mp.zip",
-    "dependencies":
+    "dependencies": []
   },
   "gimmick.md": {
     "name": "gimmick.md",
@@ -77,7 +77,7 @@
     "version": 1.2,
     "type": "md",
     "url": "https://raw.githubusercontent.com/Harlem512/rm-mod-database/refs/heads/main/mods/gimmick/gimmick.md",
-    "dependencies":
+    "dependencies": []
   },
   "grapple_preview": {
     "name": "grapple_preview",
@@ -87,7 +87,7 @@
     "version": 1,
     "type": "zip",
     "url": "https://github.com/Harlem512/rm-mod-database/releases/download/grapple-preview-1.0/grapple_preview.zip",
-    "dependencies":
+    "dependencies": []
   },
   "maya_palette": {
     "name": "maya_palette",
@@ -97,7 +97,7 @@
     "version": 2,
     "type": "zip",
     "url": "https://github.com/Harlem512/rm-mod-database/releases/download/pals-2/maya_palette.zip",
-    "dependencies":
+    "dependencies": []
   },
   "minify.md": {
     "name": "minify.md",
@@ -107,7 +107,7 @@
     "version": 2,
     "type": "md",
     "url": "https://raw.githubusercontent.com/Harlem512/rm-mod-database/refs/heads/main/mods/minify.md",
-    "dependencies":
+    "dependencies": []
   },
   "minimap.md": {
     "name": "minimap.md",
@@ -117,7 +117,7 @@
     "version": 1.1,
     "type": "md",
     "url": "https://raw.githubusercontent.com/Harlem512/rm-mod-database/refs/heads/main/mods/minimap.md",
-    "dependencies":
+    "dependencies": []
   },
   "more_saves.md": {
     "name": "more_saves.md",
@@ -127,7 +127,7 @@
     "version": 1,
     "type": "md",
     "url": "https://raw.githubusercontent.com/Harlem512/rm-mod-database/refs/heads/main/mods/more_saves/more_saves.md",
-    "dependencies":
+    "dependencies": []
   },
   "ms_archipelago.md": {
     "name": "ms_archipelago.md",
@@ -137,7 +137,7 @@
     "version": 1,
     "type": "md",
     "url": "https://raw.githubusercontent.com/Harlem512/rm-mod-database/refs/heads/main/mods/more_saves/ms_archipelago.md",
-    "dependencies":
+    "dependencies": []
   },
   "palette_editor": {
     "name": "palette_editor",
@@ -147,7 +147,7 @@
     "version": 3.0,
     "type": "zip",
     "url": "https://github.com/Iciclis/RustedMoss-PaletteEditor/releases/download/v0.3/palette_editor.zip",
-    "dependencies":
+    "dependencies": []
   },
   "preserve_window": {
     "name": "preserve_window",
@@ -157,7 +157,7 @@
     "version": 1,
     "type": "zip",
     "url": "https://github.com/Harlem512/rm-mod-database/releases/download/preserve-window-1.0/preserve_window.zip",
-    "dependencies":
+    "dependencies": []
   },
   "puntable.md": {
     "name": "puntable.md",
@@ -167,7 +167,7 @@
     "version": 1.1,
     "type": "md",
     "url": "https://raw.githubusercontent.com/Harlem512/rm-mod-database/refs/heads/main/mods/puntable.md",
-    "dependencies":
+    "dependencies": []
   },
   "pursuit.md": {
     "name": "pursuit.md",
@@ -177,7 +177,7 @@
     "version": 1.2,
     "type": "md",
     "url": "https://raw.githubusercontent.com/Harlem512/rm-mod-database/refs/heads/main/mods/pursuit.md",
-    "dependencies":
+    "dependencies": []
   },
   "speedrun_timer.md": {
     "name": "speedrun_timer.md",
@@ -187,7 +187,7 @@
     "version": 1,
     "type": "md",
     "url": "https://raw.githubusercontent.com/Harlem512/rm-mod-database/refs/heads/main/mods/speedrun_timer.md",
-    "dependencies":
+    "dependencies": []
   },
   "zebedee": {
     "name": "zebedee",
@@ -197,6 +197,6 @@
     "version": 0,
     "type": "md",
     "url": "https://raw.githubusercontent.com/Harlem512/rm-mod-database/refs/heads/main/mods/dev.md",
-    "dependencies":
+    "dependencies": []
   }
 }
