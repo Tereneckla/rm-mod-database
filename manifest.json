@@ -39,7 +39,7 @@
     "url": "https://github.com/dgrossmann144/RustedMossArchipelagoClient/releases/download/v1.1.0/RustedMossArchipelagoClient.zip",
     "dependencies": []
   },
-  "bugfix": {
+  "bugfix.md": {
     "name": "bugfix.md",
     "display": "Bugfix",
     "description": "Fixes a few bugs with Rusted Moss.",
