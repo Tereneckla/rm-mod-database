@@ -27,7 +27,7 @@
     "version": 2.1,
     "type": "zip",
     "url": "https://github.com/Harlem512/rm-mod-database/releases/download/ameli-palette-2.1/ameli_palette.zip",
-    "dependencies": []
+    "dependencies": ["bugfix.md"]
   },
   "archipelago": {
     "name": "archipelago",
