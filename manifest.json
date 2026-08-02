@@ -161,6 +161,15 @@
     "type": "md",
     "url": "https://raw.githubusercontent.com/Harlem512/rm-mod-database/refs/heads/main/mods/more_saves/more_saves.md"
   },
+  "no_grapple": {
+    "name": "no_grapple",
+    "display": "No Grapple",
+    "description": "Toggle various grapplable Objects (including tiles) on or off.\nDetailed information at https://codeberg.org/Tereneckla/rm-mod-no_grapple",
+    "author": "Tereneckla",
+    "version": 1,
+    "type": "zip",
+    "url": "https://codeberg.org/Tereneckla/rm-mod-no_grapple/releases/download/1.0/no_grapple.zip"
+  },
   "palette_editor": {
     "name": "palette_editor",
     "display": "Palette Editor",
