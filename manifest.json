@@ -164,7 +164,7 @@
   "no_grapple": {
     "name": "no_grapple",
     "display": "No Grapple",
-    "description": "Toggle various grapplable Objects (including tiles) on or off.\nDetailed information at https://codeberg.org/Tereneckla/rm-mod-no_grapple",
+    "description": "Toggle various grapplable Objects (including tiles) on or off.\n\nDetailed information at https://codeberg.org/Tereneckla/\nrm-mod-no_grapple",
     "author": "Tereneckla",
     "version": 1,
     "type": "zip",
