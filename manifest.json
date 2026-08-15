@@ -206,6 +206,15 @@
     "type": "md",
     "url": "https://raw.githubusercontent.com/Harlem512/rm-mod-database/refs/heads/main/mods/pursuit.md"
   },
+  "robin_chase": {
+    "name": "robin_chase",
+    "display": "Robin Chase",
+    "description": "Adds someone who loves you very very much [shake][jitter]RUN[/jitter][/shake].",
+    "author": "Tereneckla",
+    "version": 1.0,
+    "type": "zip",
+    "url": "https://codeberg.org/Tereneckla/rm-mod-robin_chase/releases/download/1.0/robin_chase.zip"
+  },
   "speedrun_timer.md": {
     "name": "speedrun_timer.md",
     "display": "Speedrun Timer Control",
