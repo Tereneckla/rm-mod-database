@@ -138,6 +138,9 @@ if global.worm_easy and global.invis {
 if !self.pursuit { return }
 event_perform_object(oworm, ev_other, ev_room_end)
 self.transitioning = true
+
+-- high depth so the room_start event runs after the room generator
+self.depth = 9999
 ```
 
 ## room_start
@@ -146,8 +149,8 @@ self.transitioning = true
 if !self.pursuit { return }
 if instance_number(oworm) > 0 {
   instance_destroy(oworm)
-  return
 }
+
 -- 100 depth is needed to prevent the winter dlc from making the worm invisible
 self.depth = if instance_number(obg_render_test) > 0 { 100 } else { -10 }
 event_perform_object(oworm, ev_other, ev_room_start)
