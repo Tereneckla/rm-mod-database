@@ -29,6 +29,7 @@ Here's all the (publicly) included mods and their authors. If an author isn't sh
 - [Preserve Window](#preserve-window)
 - [Puntable](#puntable)
 - [Pursuit](#pursuit)
+- [Robin Chase (Tereneckla)](#robin-chase-tereneckla)
 - [Speedrun Timer Control](#speedrun-timer-control)
 
 There's also an (unfinished) portal gun mod on [another branch](https://github.com/Harlem512/rm-mod-database/compare/main...portal) and some [sample code to make new rooms](https://github.com/Harlem512/rm-mod-database/compare/main...area_test).
@@ -150,6 +151,10 @@ Makes all NPCs grapple-able by the player.
 ![Pursuit](assets/pursuit.png)
 
 Rusted Moss but there's a _cool guy_ chasing you the whole time. **_RUN_**.
+
+# Robin Chase (Tereneckla)
+
+Adds someone who _loves_ you very very much. **_RUN_**.
 
 # Speedrun Timer Control
 
