@@ -236,7 +236,7 @@
   "robin_chase": {
     "name": "robin_chase",
     "display": "Robin Chase",
-    "description": "Adds someone who loves you very very much [shake][jitter]RUN[/jitter][/shake].",
+    "description": "Adds someone who loves you very very much [shake][jitter]RUN[/jitter][/shake].\n\nDifficulty can be changed with substate and hardmode in init.meow",
     "author": "Tereneckla",
     "version": 1.0,
     "type": "zip",
