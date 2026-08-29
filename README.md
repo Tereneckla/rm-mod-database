@@ -130,6 +130,12 @@ Makes Fern 50% smaller and 30% faster. Applies to _all_ Fern saves, yes all of t
 
 Adds a minimap to the bottom-left of the screen.
 
+# Mod Option Manager (Tereneckla)
+
+#[Mod Option Manager] (https://codeberg.org/Tereneckla/rm-mod-mom/raw/branch/main/preview.png)
+
+Adds an ingame option menu mod authors can register to.
+
 # More Saves
 
 ![More Saves](assets/more_saves.png)
