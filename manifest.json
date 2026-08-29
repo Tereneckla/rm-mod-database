@@ -152,6 +152,15 @@
     "type": "md",
     "url": "https://raw.githubusercontent.com/Harlem512/rm-mod-database/refs/heads/main/mods/minimap.md"
   },
+  "mom": {
+    "name": "mom",
+    "display": "Mod Option Manager",
+    "description": "Adds an ingame option menu mod authors can register to.",
+    "author": "Tereneckla",
+    "version": 1.0,
+    "type": "zip",
+    "url": "https://codeberg.org/Tereneckla/rm-mod-mom/releases/download/1.0/mom.zip"
+  },
   "more_saves.md": {
     "name": "more_saves.md",
     "display": "More Saves",
@@ -209,11 +218,11 @@
   "robin_chase": {
     "name": "robin_chase",
     "display": "Robin Chase",
-    "description": "Adds someone who loves you very very much [shake][jitter]RUN[/jitter][/shake].\n\nDifficulty can be changed with substate and hardmode in init.meow",
+    "description": "Adds someone who loves you very very much [shake][jitter]RUN[/jitter][/shake].\n\nDifficulty can be changed with substate and hardmode in init.meow or with Mod Option Manager",
     "author": "Tereneckla",
-    "version": 1.0,
+    "version": 1.1,
     "type": "zip",
-    "url": "https://codeberg.org/Tereneckla/rm-mod-robin_chase/releases/download/1.0/robin_chase.zip"
+    "url": "https://codeberg.org/Tereneckla/rm-mod-robin_chase/releases/download/1.1/robin_chase.zip"
   },
   "speedrun_timer.md": {
     "name": "speedrun_timer.md",
