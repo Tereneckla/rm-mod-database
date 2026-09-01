@@ -79,7 +79,7 @@
     "url": "https://codeberg.org/Tereneckla/rm-mod-E/releases/download/1.1/E%21",
     "dependencies": []
   },
-  "froy": {
+  "froy.md": {
     "name": "froy.md",
     "display": "Froy",
     "description": "Adds someone who just wants to say hi~ [shake][jitter]RUN[/jitter][/shake].",
