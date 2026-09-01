@@ -6,7 +6,8 @@
     "author": "Harlem512",
     "version": 6.3,
     "type": "meow",
-    "url": "https://github.com/Harlem512/rm-mod-manager/releases/download/1.4c/rmml.meow"
+    "url": "https://github.com/Harlem512/rm-mod-manager/releases/download/1.4c/rmml.meow",
+    "dependencies": []
   },
   "rmmm.md": {
     "name": "rmmm.md",
@@ -15,7 +16,8 @@
     "author": "Harlem512",
     "version": 1.4,
     "type": "md",
-    "url": "https://github.com/Harlem512/rm-mod-manager/releases/download/1.4c/rmmm.md"
+    "url": "https://github.com/Harlem512/rm-mod-manager/releases/download/1.4c/rmmm.md",
+    "dependencies": []
   },
   "ameli_palette": {
     "name": "ameli_palette",
@@ -24,7 +26,8 @@
     "author": "Harlem512",
     "version": 2.1,
     "type": "zip",
-    "url": "https://github.com/Harlem512/rm-mod-database/releases/download/ameli-palette-2.1/ameli_palette.zip"
+    "url": "https://github.com/Harlem512/rm-mod-database/releases/download/ameli-palette-2.1/ameli_palette.zip",
+    "dependencies": [{"name": "archipelago", "version": 1.1, "required": false}]
   },
   "archipelago": {
     "name": "archipelago",
@@ -33,7 +36,8 @@
     "author": "MrL",
     "version": 1.2,
     "type": "zip",
-    "url": "https://github.com/dgrossmann144/RustedMossArchipelagoClient/releases/download/v1.2.0/RustedMossArchipelagoClient.zip"
+    "url": "https://github.com/dgrossmann144/RustedMossArchipelagoClient/releases/download/v1.2.0/RustedMossArchipelagoClient.zip",
+    "dependencies": []
   },
   "checklist.md": {
     "name": "checklist.md",
@@ -42,7 +46,8 @@
     "author": "Harlem512",
     "version": 1.1,
     "type": "md",
-    "url": "https://raw.githubusercontent.com/Harlem512/rm-mod-database/refs/heads/main/mods/checklist/checklist.md"
+    "url": "https://raw.githubusercontent.com/Harlem512/rm-mod-database/refs/heads/main/mods/checklist/checklist.md",
+    "dependencies": [{"name": "E!", "version": 1.1, "required": true}]
   },
   "cursor_accessible": {
     "name": "cursor_accessible",
@@ -51,7 +56,8 @@
     "author": "Elire, Astra, Vei",
     "version": 1.0,
     "type": "zip",
-    "url": "https://github.com/Harlem512/rm-mod-database/releases/download/cursor_accessible/cursor_accessible.zip"
+    "url": "https://github.com/Harlem512/rm-mod-database/releases/download/cursor_accessible/cursor_accessible.zip",
+    "dependencies": []
   },
   "cracked_bone_whip": {
     "name": "cracked_bone_whip",
@@ -60,7 +66,8 @@
     "author": "Tereneckla",
     "version": 1.0,
     "type": "zip",
-    "url": "https://codeberg.org/Tereneckla/rm-mod-cracked_bone_whip/releases/download/1.0/cracked_bone_whip.zip"
+    "url": "https://codeberg.org/Tereneckla/rm-mod-cracked_bone_whip/releases/download/1.0/cracked_bone_whip.zip",
+    "dependencies": []
   },
   "E!": {
     "name": "E!",
@@ -69,7 +76,8 @@
     "author": "Tereneckla",
     "version": 1.1,
     "type": "md",
-    "url": "https://codeberg.org/Tereneckla/rm-mod-E/releases/download/1.1/E%21"
+    "url": "https://codeberg.org/Tereneckla/rm-mod-E/releases/download/1.1/E%21",
+    "dependencies": []
   },
   "froy": {
     "name": "froy.md",
@@ -78,7 +86,8 @@
     "author": "Elire, Astra, Vei",
     "version": 1,
     "type": "md",
-    "url": "https://github.com/Harlem512/rm-mod-database/releases/download/elire-astra-vei/froy.md"
+    "url": "https://github.com/Harlem512/rm-mod-database/releases/download/elire-astra-vei/froy.md",
+    "dependencies": []
   },
   "ghost_mp": {
     "name": "ghost_mp",
@@ -87,7 +96,8 @@
     "author": "Harlem512",
     "version": 1.6,
     "type": "zip",
-    "url": "https://github.com/Harlem512/rm-mod-database/releases/download/ghost-mp-1.6/ghost_mp.zip"
+    "url": "https://github.com/Harlem512/rm-mod-database/releases/download/ghost-mp-1.6/ghost_mp.zip",
+    "dependencies": []
   },
   "gimmick.md": {
     "name": "gimmick.md",
@@ -96,7 +106,8 @@
     "author": "Harlem512",
     "version": 1.2,
     "type": "md",
-    "url": "https://raw.githubusercontent.com/Harlem512/rm-mod-database/refs/heads/main/mods/gimmick/gimmick.md"
+    "url": "https://raw.githubusercontent.com/Harlem512/rm-mod-database/refs/heads/main/mods/gimmick/gimmick.md",
+    "dependencies": []
   },
   "golden": {
     "name": "golden",
@@ -105,7 +116,8 @@
     "author": "Elire, Astra, Vei",
     "version": 1,
     "type": "zip",
-    "url": "https://github.com/Harlem512/rm-mod-database/releases/download/elire-astra-vei/golden.zip"
+    "url": "https://github.com/Harlem512/rm-mod-database/releases/download/elire-astra-vei/golden.zip",
+    "dependencies": []
   },
   "grapple_preview": {
     "name": "grapple_preview",
@@ -114,7 +126,8 @@
     "author": "Harlem512",
     "version": 1,
     "type": "zip",
-    "url": "https://github.com/Harlem512/rm-mod-database/releases/download/grapple-preview-1.0/grapple_preview.zip"
+    "url": "https://github.com/Harlem512/rm-mod-database/releases/download/grapple-preview-1.0/grapple_preview.zip",
+    "dependencies": []
   },
   "languages": {
     "name": "languages",
@@ -123,7 +136,8 @@
     "author": "Tereneckla",
     "version": 1.0,
     "type": "zip",
-    "url": "https://codeberg.org/Tereneckla/rm-mod-languages/releases/download/1.0/languages.zip"
+    "url": "https://codeberg.org/Tereneckla/rm-mod-languages/releases/download/1.0/languages.zip",
+    "dependencies": []
   },
   "maya_palette": {
     "name": "maya_palette",
@@ -132,7 +146,8 @@
     "author": "Harlem512",
     "version": 2,
     "type": "zip",
-    "url": "https://github.com/Harlem512/rm-mod-database/releases/download/pals-2/maya_palette.zip"
+    "url": "https://github.com/Harlem512/rm-mod-database/releases/download/pals-2/maya_palette.zip",
+    "dependencies": []
   },
   "minify.md": {
     "name": "minify.md",
@@ -141,7 +156,8 @@
     "author": "Harlem512",
     "version": 2,
     "type": "md",
-    "url": "https://raw.githubusercontent.com/Harlem512/rm-mod-database/refs/heads/main/mods/minify.md"
+    "url": "https://raw.githubusercontent.com/Harlem512/rm-mod-database/refs/heads/main/mods/minify.md",
+    "dependencies": []
   },
   "minimap.md": {
     "name": "minimap.md",
@@ -150,7 +166,8 @@
     "author": "Harlem512",
     "version": 1.1,
     "type": "md",
-    "url": "https://raw.githubusercontent.com/Harlem512/rm-mod-database/refs/heads/main/mods/minimap.md"
+    "url": "https://raw.githubusercontent.com/Harlem512/rm-mod-database/refs/heads/main/mods/minimap.md",
+    "dependencies": []
   },
   "mom": {
     "name": "mom",
@@ -159,7 +176,8 @@
     "author": "Tereneckla",
     "version": 1.0,
     "type": "zip",
-    "url": "https://codeberg.org/Tereneckla/rm-mod-mom/releases/download/1.0/mom.zip"
+    "url": "https://codeberg.org/Tereneckla/rm-mod-mom/releases/download/1.0/mom.zip",
+    "dependencies": []
   },
   "more_saves.md": {
     "name": "more_saves.md",
@@ -168,7 +186,8 @@
     "author": "Harlem512",
     "version": 1,
     "type": "md",
-    "url": "https://raw.githubusercontent.com/Harlem512/rm-mod-database/refs/heads/main/mods/more_saves/more_saves.md"
+    "url": "https://raw.githubusercontent.com/Harlem512/rm-mod-database/refs/heads/main/mods/more_saves/more_saves.md",
+    "dependencies": []
   },
   "no_grapple": {
     "name": "no_grapple",
@@ -177,7 +196,8 @@
     "author": "Tereneckla",
     "version": 1,
     "type": "zip",
-    "url": "https://codeberg.org/Tereneckla/rm-mod-no_grapple/releases/download/1.0/no_grapple.zip"
+    "url": "https://codeberg.org/Tereneckla/rm-mod-no_grapple/releases/download/1.0/no_grapple.zip",
+    "dependencies": []
   },
   "palette_editor": {
     "name": "palette_editor",
@@ -186,7 +206,8 @@
     "author": "Snowill",
     "version": 3.0,
     "type": "zip",
-    "url": "https://github.com/Iciclis/RustedMoss-PaletteEditor/releases/download/v0.3/palette_editor.zip"
+    "url": "https://github.com/Iciclis/RustedMoss-PaletteEditor/releases/download/v0.3/palette_editor.zip",
+    "dependencies": []
   },
   "preserve_window": {
     "name": "preserve_window",
@@ -195,7 +216,8 @@
     "author": "Harlem512",
     "version": 1,
     "type": "zip",
-    "url": "https://github.com/Harlem512/rm-mod-database/releases/download/preserve-window-1.0/preserve_window.zip"
+    "url": "https://github.com/Harlem512/rm-mod-database/releases/download/preserve-window-1.0/preserve_window.zip",
+    "dependencies": []
   },
   "puntable.md": {
     "name": "puntable.md",
@@ -204,7 +226,8 @@
     "author": "Harlem512",
     "version": 1.1,
     "type": "md",
-    "url": "https://raw.githubusercontent.com/Harlem512/rm-mod-database/refs/heads/main/mods/puntable.md"
+    "url": "https://raw.githubusercontent.com/Harlem512/rm-mod-database/refs/heads/main/mods/puntable.md",
+    "dependencies": []
   },
   "pursuit.md": {
     "name": "pursuit.md",
@@ -213,7 +236,8 @@
     "author": "Harlem512",
     "version": 1.4,
     "type": "md",
-    "url": "https://raw.githubusercontent.com/Harlem512/rm-mod-database/refs/heads/main/mods/pursuit.md"
+    "url": "https://raw.githubusercontent.com/Harlem512/rm-mod-database/refs/heads/main/mods/pursuit.md",
+    "dependencies": []
   },
   "robin_chase": {
     "name": "robin_chase",
@@ -222,7 +246,8 @@
     "author": "Tereneckla",
     "version": 1.1,
     "type": "zip",
-    "url": "https://codeberg.org/Tereneckla/rm-mod-robin_chase/releases/download/1.1/robin_chase.zip"
+    "url": "https://codeberg.org/Tereneckla/rm-mod-robin_chase/releases/download/1.1/robin_chase.zip",
+    "dependencies": []
   },
   "speedrun_timer.md": {
     "name": "speedrun_timer.md",
@@ -231,7 +256,8 @@
     "author": "Harlem512",
     "version": 1,
     "type": "md",
-    "url": "https://raw.githubusercontent.com/Harlem512/rm-mod-database/refs/heads/main/mods/speedrun_timer.md"
+    "url": "https://raw.githubusercontent.com/Harlem512/rm-mod-database/refs/heads/main/mods/speedrun_timer.md",
+    "dependencies": []
   },
   "zebedee": {
     "name": "zebedee",
@@ -240,6 +266,7 @@
     "author": "Harlem512",
     "version": 0,
     "type": "md",
-    "url": "https://raw.githubusercontent.com/Harlem512/rm-mod-database/refs/heads/main/mods/dev.md"
+    "url": "https://raw.githubusercontent.com/Harlem512/rm-mod-database/refs/heads/main/mods/dev.md",
+    "dependencies": []
   }
 }
